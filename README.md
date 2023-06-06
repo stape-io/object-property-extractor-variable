@@ -2,7 +2,7 @@
 
 ## How to use Object Property Extractor Variable
 
-TBD
+With Object Property Extractor Variable you can extract object property by key.
 
 ## Open Source
 
