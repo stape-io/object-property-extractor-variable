@@ -1,4 +1,6 @@
 homepage: "https://stape.io/"
 versions:
+  - sha: a635e6eb05ddb0716199e83fa3d1aa3585536bbc
+    changeNotes: add checks for object existence
   - sha: ed3eb7752839848e8d3f0738614801044320e691
     changeNotes: Initial release.
