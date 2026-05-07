@@ -10,3 +10,6 @@ For instance, if you have an object with various properties, and you need to ext
 ## Open Source
 
 Object Property Extractor Variable for GTM Server is developing and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/object-property-extractor-variable)
